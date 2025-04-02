@@ -31,8 +31,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="f/f1.png">
 </p>
 <p>
-
+when the ticket first arrives it can be assigned an SLA level and a department to look at the ticket
 <p>
 <img src="f/f2.png">
 </p>
 <p>
+responses can be sent to update the person on the status of the claim or send a comfirmation the issue has been fixed
